@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Иван",
+    "surname": "Петров",
+    "height": 175,
+    "weight": 75
+  },
+  {
+    "name": "Мария",
+    "surname": "Иванова",
+    "height": 165,
+    "weight": 55
+  },
+  {
+    "name": "Александр",
+    "surname": "Сидоров",
+    "height": 180,
+    "weight": 85
+  },
+  {
+    "name": "Елена",
+    "surname": "Смирнова",
+    "height": 155,
+    "weight": 45
+  },
+  {
+    "name": "Дмитрий",
+    "surname": "Кузнецов",
+    "height": 190,
+    "weight": 95
+  },
+  {
+    "name": "Ольга",
+    "surname": "Михайлова",
+    "height": 160,
+    "weight": 50
+  },
+  {
+    "name": "Сергей",
+    "surname": "Васильев",
+    "height": 170,
+    "weight": 70
+  },
+  {
+    "name": "Анна",
+    "surname": "Соколова",
+    "height": 150,
+    "weight": 40
+  },
+  {
+    "name": "Вячеслав",
+    "surname": "Новиков",
+    "height": 185,
+    "weight": 90
+  },
+  {
+    "name": "Наталья",
+    "surname": "Попова",
+    "height": 165,
+    "weight": 55
+  },
+  {
+    "name": "Евгений",
+    "surname": "Фёдоров",
+    "height": 195,
+    "weight": 100
+  },
+  {
+    "name": "Екатерина",
+    "surname": "Львова",
+    "height": 155,
+    "weight": 45
+  },
+  {
+    "name": "Константин",
+    "surname": "Сергеев",
+    "height": 175,
+    "weight": 75
+  },
+  {
+    "name": "Юлия",
+    "surname": "Кириллова",
+    "height": 160,
+    "weight": 50
+  },
+  {
+    "name": "Павел",
+    "surname": "Иванов",
+    "height": 180,
+    "weight": 85
+  },
+  {
+    "name": "Виктория",
+    "surname": "Петрова",
+    "height": 155,
+    "weight": 45
+  }
+]
